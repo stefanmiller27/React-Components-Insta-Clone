@@ -28,4 +28,7 @@ const Post = props => {
   );
 };
 
+
+//my original coding seems legit 
+
 export default Post;
